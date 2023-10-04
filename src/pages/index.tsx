@@ -48,7 +48,7 @@ export default function Home() {
     <>
       <div className={styles.header}>
         <Head>
-          <title>Home | Desi Script</title>
+          <title>Home | Shadman</title>
           <meta name="description" content="Full Stack Developer" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <meta name="theme-color" content="#D3D3D3" />
