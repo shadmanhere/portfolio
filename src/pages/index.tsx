@@ -55,7 +55,7 @@ export default function Home() {
           <link rel="icon" href="/favicon.ico" />
         </Head>
 
-        <Navbar brandUrl="/shadman" content="Shadman" />
+        <Navbar brandUrl="/" content="Shadman" />
 
         <Welcome
           animatedTexts={[
