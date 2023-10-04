@@ -39,7 +39,7 @@ const Welcome = ({
 
       <p>{description}</p>
       <div className="mb-6 xs:justify-end xs:mt-1 md:mt-1 flex md:justify-center float-right">
-        <a
+        {/* <a
           href="https://www.facebook.com/desiscript"
           target="_blank"
           type="button"
@@ -56,7 +56,7 @@ const Welcome = ({
           >
             <path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z" />
           </svg>
-        </a>
+        </a> */}
 
         <a
           href="https://twitter.com/shadmanhere"
